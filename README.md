@@ -27,7 +27,8 @@ Here's a list of the programs available in this repository:
    1) LEX program to count number of comment lines in a C program, eliminate them and copy that program to a separate file.
    2) Yacc program to recognise nested FOR LOOPS
 4. [prog4](https://github.com/0902-Sharon/CDLabPrograms/tree/main/prog4) :
-   LEX program to count number of identifiers, operators and keywords in a given input file 2) Yacc program to recognise nested IF control statements and display number of levels of nesting
+   1) LEX program to count number of identifiers, operators and keywords in a given input file
+   2) Yacc program to recognise nested IF control statements and display number of levels of nesting
 5. [prog5](https://github.com/0902-Sharon/CDLabPrograms/tree/main/prog5) :
    Write a YACC program recognise funtion declaration statement in C and and display the number of variables declared
 6. [prog6](https://github.com/0902-Sharon/CDLabPrograms/tree/main/prog6) :
