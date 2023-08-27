@@ -22,7 +22,7 @@ Here's a list of the programs available in this repository:
     2) Yacc program to recognise strings of the form a^n b^n+m c^n
 2. [prog2](https://github.com/0902-Sharon/CDLabPrograms/tree/main/prog2) :
    1) LEX program to count number of Positive and Negetive Integers, Fractions
-   2) Yacc prpgram to validate and evaluate a simple expression involving operators +,-,* and /
+   2) Yacc program to validate and evaluate a simple expression involving operators +,-,* and /
 3. [prog3](https://github.com/0902-Sharon/CDLabPrograms/tree/main/prog3) :
    1) LEX program to count number of comment lines in a C program, eliminate them and copy that program to a separate file.
    2) Yacc program to recognise nested FOR LOOPS
